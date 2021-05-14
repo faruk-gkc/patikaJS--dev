@@ -1,1 +1,3 @@
-# patikaJS--dev
+# PATİKA JAVASCRİPT ÖDEVİ - 1
+
+## ÖDEV MASTER BRANCH'İ İÇERİSİNDEDİR.
