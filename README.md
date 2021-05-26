@@ -1,3 +1,3 @@
 # PATİKA JAVASCRİPT ÖDEVİ - 1
 
-**Ödev master branch'i içerisindedir.**
+**Ödev-1 master branch'i içerisindedir.**
